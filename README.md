@@ -1,2 +1,2 @@
 # alura-aspnet-core
-Projeto produzido como exercício das aulas.
+Projetos produzidos como exercício durante as aulas.
